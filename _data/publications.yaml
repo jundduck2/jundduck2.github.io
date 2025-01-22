@@ -1,10 +1,23 @@
 papers:
   - title: "Latent Action Pretraining from Videos"
-    year: "2024"
+    year: "2025"
     authors: "Seonghyeon Ye*, <b><u>Joel Jang*</u></b>, Byeongguk Jeon, Sejune Joo, Jianwei Yang, Baolin Peng, Ajay Mandlekar, Reuben Tan, Yu-Wei Chao, Bill Yuchen Lin, Lars Liden, Kimin Lee, Jianfeng Gao, Luke Zettlemoyer, Dieter Fox, Minjoon Seo"
-    venue: "Preprint"
+    venue: "ICLR 2025"
     paper_pdf: "https://arxiv.org/abs/2410.11758"
     code: "https://github.com/LatentActionPretraining/LAPA"
+    selected: y
+
+  - title: "Knowledge Entropy Decay during Language Model Pretraining Hinders New Knowledge Acquisition"
+    authors: "Jiyeon Kim*, Hyunji Lee*, Hyowon Cho, <b><u>Joel Jang</u></b>, Hyeonbin Hwang, Seungpil Won, Youbin Ahn, Dohaeng Lee, Minjoon Seo"
+    venue: "ICLR 2025"
+    paper_pdf: "https://arxiv.org/abs/2410.11758"
+    code: "https://github.com/kaistAI/Knowledge-Entropy"
+    selected: y
+
+  - title: "HAMSTER: Hierarchical Action Models for Open-World Robot Manipulation"
+    authors: "Yi Li*, Yuquan Deng*, Jesse Zhang*, Joel Jang, Marius Memmel, Caelan Reed Garrett, Fabio Ramos, Dieter Fox, Anqi Li, Abhishek Gupta, Ankit Goyal"
+    venue: "ICLR 2025"
+    paper_pdf: "https://hamster-robot.github.io/"
     selected: y
     
   - title: "Semiparametric Token-Sequence Co-Supervision"

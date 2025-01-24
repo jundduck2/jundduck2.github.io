@@ -15,8 +15,14 @@ papers:
     selected: y
 
   - title: "HAMSTER: Hierarchical Action Models for Open-World Robot Manipulation"
-    authors: "Yi Li*, Yuquan Deng*, Jesse Zhang*, Joel Jang, Marius Memmel, Caelan Reed Garrett, Fabio Ramos, Dieter Fox, Anqi Li, Abhishek Gupta, Ankit Goyal"
+    authors: "Yi Li*, Yuquan Deng*, Jesse Zhang*, <b><u>Joel Jang</u></b>, Marius Memmel, Caelan Reed Garrett, Fabio Ramos, Dieter Fox, Anqi Li, Abhishek Gupta, Ankit Goyal"
     venue: "ICLR 2025"
+    paper_pdf: "https://hamster-robot.github.io/"
+    selected: y
+
+  - title: "The BiGGen Bench: A Principled Benchmark for Fine-grained Evaluation of Language Models with Language Models"
+    authors: "Seungone Kim, Juyoung Suk, Ji Yong Cho, Shayne Longpre, Chaeeun Kim, Dongkeun Yoon, Guijin Son, Yejin Cho, Sheikh Shafayat, Jinheon Baek, Sue Hyun Park, Hyeonbin Hwang, Jinkyung Jo, Hyowon Cho, Haebin Shin, Seongyun Lee, Hanseok Oh, Noah Lee, Namgyu Ho, Se June Joo, Miyoung Ko, Yoonjoo Lee, Hyungjoo Chae, Jamin Shin, <b><u>Joel Jang</u></b>, Seonghyeon Ye, Bill Yuchen Lin, Sean Welleck, Graham Neubig, Moontae Lee, Kyungjae Lee, Minjoon Seo"
+    venue: "NAACL 2025"
     paper_pdf: "https://hamster-robot.github.io/"
     selected: y
     

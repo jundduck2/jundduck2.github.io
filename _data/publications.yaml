@@ -1,4 +1,23 @@
 papers:
+  - title: "GR00T N1: An Open Foundation Model for Generalist Humanoid Robots"
+    year: "2025"
+    authors: "NVIDIA GEAR Team"
+    venue: "Technical Whitepaper"
+    paper_pdf: "https://arxiv.org/abs/2503.14734"
+    code: "https://github.com/NVIDIA/Isaac-GR00T"
+    The Verge: "https://www.theverge.com/news/631743/nvidia-issac-groot-n1-robotics-foundation-model-available:
+    TechCrunch: "https://techcrunch.com/2025/03/18/nvidia-debuts-groot-n1-a-foundation-model-for-humanoid-robotics/"
+    Business Wire: "https://www.businesswire.com/news/home/20250319359192/en/NVIDIA-Unveils-Open-Source-Isaac-GR00T-N1-to-Optimize-AI-Training-Securing-a-Leading-Position-in-Humanoid-Robotics-Says-TrendForce"
+    selected: y
+    
+  - title: "Magma: A Foundation Model for Multimodal AI Agents"
+    year: "2025"
+    authors: "Jianwei Yang, Reuben Tan, Qianhui Wu, Ruijie Zheng, Baolin Peng, Yongyuan Liang, Yu Gu, Mu Cai, Seonghyeon Ye, <b><u>Joel Jang</u></b>, Yuquan Deng, Lars Liden, Jianfeng Gao"
+    venue: "CVPR 2025"
+    paper_pdf: "https://arxiv.org/abs/2502.13130"
+    code: "https://github.com/microsoft/Magma"
+    selected: y
+    
   - title: "Latent Action Pretraining from Videos"
     year: "2025"
     authors: "Seonghyeon Ye*, <b><u>Joel Jang*</u></b>, Byeongguk Jeon, Sejune Joo, Jianwei Yang, Baolin Peng, Ajay Mandlekar, Reuben Tan, Yu-Wei Chao, Bill Yuchen Lin, Lars Liden, Kimin Lee, Jianfeng Gao, Luke Zettlemoyer, Dieter Fox, Minjoon Seo"

@@ -1,6 +1,12 @@
 experiences:
 - place: "Nvidia GEAR Lab"
-  time: "Oct 2024 - Present"
+  time: "March 2025 - Present"
+  title: "Research Scientist"
+  subtitle: "Leading the world modeling team"
+  category: "work"
+  
+- place: "Nvidia GEAR Lab"
+  time: "Oct 2024 - Feb 2025"
   title: "Research Intern (Mentors: Scott Reed and Jim Fan)"
   subtitle: "Scalable methods for creating Foundation Models for Robotics"
   category: "work"

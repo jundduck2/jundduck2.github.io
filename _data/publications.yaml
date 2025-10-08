@@ -4,12 +4,12 @@ papers:
     authors: "<b><u>Junseok Lee</u></b>, Yujin Jeon, Euntai Kim"
     venue: "ICROS 2025"
     paper_pdf: "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12313641"
-    code: "https://github.com/jundduck/XYZ-Innovation-tree_scan"
+    code: ""
     selected: y
 
   - title: "about world model navigation"
     year: "International"
-    authors: "Junseok Lee, "
+    authors: "<b><u>Junseok Lee</u></b>, "
     venue: "IROS 2026"
     paper_pdf: ""
     code: ""

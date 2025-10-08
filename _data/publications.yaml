@@ -7,7 +7,7 @@ papers:
     code: "https://github.com/jundduck/XYZ-Innovation-tree_scan"
     selected: y
 
-    - title: "about world model navigation"
+  - title: "about world model navigation"
     year: "International"
     authors: "Junseok Lee, "
     venue: "IROS 2026"

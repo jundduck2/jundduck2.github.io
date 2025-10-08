@@ -215,11 +215,3 @@ h4 {
     border-bottom-color: #33C3F0;
   }
 }
-
-
-/* Publications 영역에서는 섹션 상단 가로선 제거 */
-.pubs,
-.pubs .docs-section {
-  border-top: 0 !important;
-  padding-top: 0; /* 필요 시 위쪽 여백도 줄임 */
-}
